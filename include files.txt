@@ -1,0 +1,12 @@
+->js_animation.html
+	-background.svg
+	-Finance.svg
+	-Growth.svg
+
+->app.js
+->style1.css
+	-climate01.jpg
+	-climate02.jpg
+	-climate03.jpg
+	-tea02.jpg
+	-background.svg
